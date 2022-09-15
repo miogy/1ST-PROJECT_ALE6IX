@@ -19,9 +19,9 @@
 - E-commerce는 필요한 부분을 컴포넌트화하여 섹션을 나누거나 fetch를 이용하여 api통신으로 데이터를 주고 받는등
   지금까지 학습한 부분을 각자 맡은 페이지내에서 복습할 수 있고 새로운 기능을 추가로 학습할 수 있기에 선정하게 되었습니다.
   
-  ![](https://velog.velcdn.com/images/miogy/post/762cbc1b-c74c-48aa-b437-87e9f8979690/image.png)
+### 데모 영상(이미지 클릭)
 
-- [ALE6IX 시연영상](https://blog.naver.com/jjangrl87/222872754976)
+[![home](https://velog.velcdn.com/images/ch00ng10000/post/3ff906f7-d6ea-43a6-92f1-fc37b06e3eae/image.png)](https://youtu.be/X2f3YSx6h0Q)
 
 <br>
 
@@ -45,15 +45,31 @@
 
 #### 메인페이지
 
+
+https://user-images.githubusercontent.com/99234582/190320114-96894487-8c1e-407b-8428-4b321ea5b69b.mp4
+
 - 이미지 슬라이드 : mock-up이미지 데이터와 메인 슬라이드 내에 버튼,도트,이미지 컨텐츠 컴포넌트화, setInterval을 사용한 무한 슬라이드
+
+
+https://user-images.githubusercontent.com/99234582/190320314-a0c6337d-0434-4a65-b3d5-93e79ff98679.mp4
+
 - 섹션 컴포넌트 : 신 제품, 추천 제품 fetch를 이용한 데이터 연결, React-router-dom을 사용하여 Link 이동
 
 #### 제품페이지
 
+
+https://user-images.githubusercontent.com/99234582/190320736-bcacd1ed-c186-420d-9866-437b45f0df15.mp4
+
 - 상품 문의 : api 호출하여 POST, GET, DELETE 구현. 
+
+https://user-images.githubusercontent.com/99234582/190320711-3e057832-9f6e-4790-95fd-7efdeb908999.mp4
+
 - 상품 후기 : api 호출하여 해당 제품을 구매한 유저의 토큰으로 POST, DELETE하고 재렌더링 GET 구현.
 
 #### 내비게이션 바
+
+
+https://user-images.githubusercontent.com/99234582/190320661-f85c43c0-52d5-49db-b9bb-4cb38d528318.mp4
 
 - api 서버연결 전까지 mock-up데이터를 이용한 기능구현까지 작업
 
