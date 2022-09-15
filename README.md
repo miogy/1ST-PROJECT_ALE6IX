@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/99234582/190320711-3e057832-9f6e-4790-
 
 https://user-images.githubusercontent.com/99234582/190320661-f85c43c0-52d5-49db-b9bb-4cb38d528318.mp4
 
-- api 서버연결 전까지 mock-up데이터를 이용한 기능구현까지 작업
+- 내비게이션 바 mock-up데이터를 이용한 기능구현
 
 #### 그외
 
