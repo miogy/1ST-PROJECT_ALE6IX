@@ -26,10 +26,10 @@
 
 ### 3) 적용 기술
 
-언어 : React js, javascript
-Style : sass, styled-component
-Community Tools : Notion, Zep, Zoom, Slack
-Version Control Tool : Git
+언어 : React js, javascript <br>
+Style : sass, styled-component <br>
+Community Tools : [Notion](https://www.notion.so/wecode/1st-Project-74dd8285e96a48c8bab92672883bfcb9?p=8d773b95be3e494ab5eac1b7b3d79770&pm=c), Zep, Zoom, Slack <br>
+Version Control Tool : Git 
 
 ## 3. 담당기능
 
