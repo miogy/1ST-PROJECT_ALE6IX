@@ -21,12 +21,15 @@
 
 - 개발기간 : 2022/8/29 ~ 2022/9/8
 - 개발 인원 : 프론트엔드 4명, 백엔드 2명
-- [Front-end-repo](https://github.com/wecode-bootcamp-korea/justcode-6-1st-ale6ix-front)
-- [Back-end-repo](https://github.com/wecode-bootcamp-korea/justcode-6-1st-ale6ix-back)
+- [FE-repo](https://github.com/wecode-bootcamp-korea/justcode-6-1st-ale6ix-front)
+- [BE-repo](https://github.com/wecode-bootcamp-korea/justcode-6-1st-ale6ix-back)
 
 ### 3) 적용 기술
 
-> - FE : React.js, sass, react-modal, react-dom, react-icons, react-paginate, react-router-dom
+언어 : React js, javascript
+Style : sass, styled-component
+Community Tools : Notion, Zep, Zoom, Slack
+Version Control Tool : Git
 
 ## 3. 담당기능
 
